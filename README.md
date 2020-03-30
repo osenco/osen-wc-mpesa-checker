@@ -4,6 +4,7 @@ Check for MPESA transactions by phone number
 ## Usage
 ### In Content
 Add the following shortcode to a page or post
+
 `[mpesa-checker form-class='form' input-class='form-control' form-group-class='form-group' button-class= 'btn btn-primary']`
 
 ### In code
