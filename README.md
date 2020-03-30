@@ -7,6 +7,10 @@ Add the following shortcode to a page or post
 
 `[mpesa-checker form-class='form' input-class='form-control' form-group-class='form-group' button-class= 'btn btn-primary']`
 
+Or, ignoring the arguments,
+
+`[mpesa-checker]`
+
 ### In code
 Add the following snippet in your theme template
 ```php
